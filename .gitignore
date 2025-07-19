@@ -1,0 +1,3 @@
+verdaccio-bind-mount/storage/*
+consumer-project/node_modules
+registry-filler-project/node_modules
